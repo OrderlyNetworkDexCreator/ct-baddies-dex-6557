@@ -3,7 +3,7 @@
   --oui-font-size-base: 18px;
 
   /* colors */
-  --oui-color-primary: 176 132 233;
+  --oui-color-primary: 251 255 0;
   --oui-color-primary-light: 204 153 255;
   --oui-color-primary-darken: 132 97 192;
   --oui-color-primary-contrast: 255 255 255;
@@ -30,7 +30,7 @@
   --oui-color-warning-darken: 192 160 0;
   --oui-color-warning-contrast: 0 0 0;
 
-  --oui-color-fill: 64 48 96;
+  --oui-color-fill: 255 213 0;
   --oui-color-fill-active: 96 72 144;
 
   --oui-color-base-1: 93 83 123;
