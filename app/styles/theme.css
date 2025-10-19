@@ -5,13 +5,13 @@
   /* colors */
   --oui-color-primary: 212 0 255;
   --oui-color-primary-light: 204 153 255;
-  --oui-color-primary-darken: 44 18 89;
-  --oui-color-primary-contrast: 221 141 218;
+  --oui-color-primary-darken: 255 255 255;
+  --oui-color-primary-contrast: 15 0 133;
 
-  --oui-color-link: 204 153 255;
-  --oui-color-link-light: 149 87 229;
+  --oui-color-link: 128 0 255;
+  --oui-color-link-light: 78 253 113;
 
-  --oui-color-secondary: 128 96 176;
+  --oui-color-secondary: 124 80 159;
   --oui-color-tertiary: 96 72 144;
   --oui-color-quaternary: 112 84 160;
 
@@ -37,7 +37,7 @@
   --oui-color-base-2: 76 68 108;
   --oui-color-base-3: 59 53 93;
   --oui-color-base-4: 42 39 78;
-  --oui-color-base-5: 29 27 63;
+  --oui-color-base-5: 43 36 194;
   --oui-color-base-6: 20 19 54;
   --oui-color-base-7: 49 49 125;
   --oui-color-base-8: 13 14 12;
